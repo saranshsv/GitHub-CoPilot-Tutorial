@@ -1,3 +1,3 @@
 a,b=54,45
-sum=a+b
-print(sum)
+sum2=a+b
+print(sum2)
